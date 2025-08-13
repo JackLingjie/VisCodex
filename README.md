@@ -35,8 +35,14 @@ Example qualitative comparisons on multimodal coding tasks.
 
 ---
 
+## 📬 Contact
+For any questions, please contact:  
+- **Lingjie Jiang**: [lingjiejiang@stu.pku.edu.cn](mailto:lingjiejiang@stu.pku.edu.cn)
+
 ## 📜 Citation
 If you use our dataset, benchmark, or method in your research, please cite:
+
+
 
 ```bibtex
 @article{jiang2025viscodex,
