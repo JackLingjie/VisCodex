@@ -50,7 +50,8 @@ If you use our dataset, benchmark, or method in your research, please cite:
 ```bibtex
 @article{jiang2025viscodex,
   title={VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models},
-  author={Jiang, Lingjie and Huang, Shaohan and Wu, Xun and Li, Yixia and Zhang, Dongdong and Wei, Furu},
+  author={Lingjie Jiang and Shaohan Huang and Xun Wu and Yixia Li and Dongdong Zhang and Furu Wei},
   journal={arXiv preprint arXiv:2508.09945},
   year={2025}
 }
+
