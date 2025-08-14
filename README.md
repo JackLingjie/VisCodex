@@ -1,6 +1,9 @@
 # VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models
 
-[🤗 Multimodal Coding Dataset (MCD)](https://huggingface.co/datasets/lingjie23/MultimodalCodingDataset)
+[![arXiv](https://img.shields.io/badge/arXiv-2508.09945-b31b1b.svg)](https://arxiv.org/abs/2508.09945)
+[![Dataset](https://img.shields.io/badge/Dataset-MCD-blue.svg?logo=huggingface)](https://huggingface.co/datasets/lingjie23/MultimodalCodingDataset)
+
+
 
 This repository contains the codes and data for the paper **"VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models"**.  
 The **code** will be released soon — please stay tuned.  
@@ -47,7 +50,7 @@ If you use our dataset, benchmark, or method in your research, please cite:
 ```bibtex
 @article{jiang2025viscodex,
   title={VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models},
-  author={Lingjie Jiang and Shaohan Huang and Xun Wu and Yixia Li and Dongdong Zhang and Furu Wei},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  author={Jiang, Lingjie and Huang, Shaohan and Wu, Xun and Li, Yixia and Zhang, Dongdong and Wei, Furu},
+  journal={arXiv preprint arXiv:2508.09945},
   year={2025}
 }
